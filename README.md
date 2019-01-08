@@ -1,2 +1,3 @@
 # FilmSeti
-Movie Application &amp; some extras
+
+### npm install in project directory and backend directory 
